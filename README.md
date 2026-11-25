@@ -371,9 +371,7 @@ Both absorption peaks reach ≈ 70 % absorptivity, with ≈ 40 % in the region b
 ├── docs/
 │   ├── EC23702_Mini_Project_Review.pptx   # review presentation
 │   └── Mini_Project_Report.pdf            # full project report
-├── simulation/              # (add) CST Studio Suite 2019 project files (.cst)
-├── matlab/                  # (add) Kubo conductivity scripts, if available
-└── LICENSE                  # (add)
+
 ```
 
 ---
